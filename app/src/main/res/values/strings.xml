@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Meu primeiro app</string>
+    
+    <string name="hello_dio" translatable="false">Olá Mundo</string>
+</resources>
